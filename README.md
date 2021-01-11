@@ -1,4 +1,4 @@
-Learning is a lifejourney.  🧐
+Learning is a lifelong journey.  🧐
 
                        .-.
                       / /
