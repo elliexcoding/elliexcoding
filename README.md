@@ -1,5 +1,17 @@
 ### I am working on becoming a better software engineer.  😬
 
+                   .-.
+                  / /
+                 / |
+   |\     ._ ,-""  `.
+   | |,,_/  7        ;
+ `;=     ,=(     ,  /
+  |`q  q  ` |    \_,|
+ .=; <> _ ; /  ,/'/ |
+';|\,j_ \;=\ ,/   `-'
+    `--'_|\  )
+   ,' | /  ;'
+  (,,/ (,,/     
 <!--
 **elliexcoding/elliexcoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
