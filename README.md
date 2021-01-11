@@ -1,4 +1,4 @@
-### I am working on becoming a better software engineer.  😬
+Learning is a lifejourney.  🧐
 
                        .-.
                       / /
