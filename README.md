@@ -27,5 +27,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elliexcoding&show_icons=true&theme=tokyonight)](https://github.com/elliexcoding/github-readme-stats)
-
