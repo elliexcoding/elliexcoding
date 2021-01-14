@@ -1,17 +1,6 @@
-Learning is a lifelong journey.  🧐
-
-                       .-.
-                      / /
-                     / |
-       |\     ._ ,-""  `.
-       | |,,_/  7        ;
-     `;=     ,=(     ,  /
-      |`q  q  ` |    \_,|
-     .=; <> _ ; /  ,/'/ |
-    ';|\,j_ \;=\ ,/   `-'
-        `--'_|\  )
-       ,' | /  ;'
-      (,,/ (,,/     
+- Interested in learning Rust.  😎
+- I love Python 😜
+- Coding Everyday Keeps The Bugs Away 😬
 <!--
 **elliexcoding/elliexcoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
