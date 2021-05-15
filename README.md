@@ -1,6 +1,6 @@
-I am now studying: Rust 🦀  - Machine Learning 🤔
+I am now studying: Rust 🦀  and Machine Learning 🤔
 
-I enjoy: Photography 📷 - Cafes 🍪
+I enjoy: Photography 📷 and Cafes 🍪
 
 
 <!--
