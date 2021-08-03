@@ -1,4 +1,4 @@
-I am now studying: Rust 🦀  and Machine Learning 🤔
+I am now studying: Rust 🦀  and Architecture Design 🤔
 
 I enjoy: Photography 📷 and Cafes 🍪
 
