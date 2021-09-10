@@ -1,6 +1,6 @@
-I am now studying: Rust 🦀  and Architecture Design 🤔
+I am now studying: Rust and Architecture Design
 
-I enjoy: Photography 📷 and Cafes 🍪
+I enjoy: Photography and Cafes
 
 
 <!--
