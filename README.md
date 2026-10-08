@@ -1,20 +1,12 @@
-I am now studying: Rust and Architecture Design
+<div align="center">
+  <h1>Hi 👋</h1>
+  <p>Code, cameras & cafés.</p>
+</div>
 
-I enjoy: Photography and Cafes
+---
 
+### 🌱 Currently learning
+Exploring **Rust** and **software architecture**.
 
-<!--
-**elliexcoding/elliexcoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+### 📷 Beyond the keyboard
+Enjoying **photography**, discovering cosy **cafés**, and finding inspiration in the little things.
